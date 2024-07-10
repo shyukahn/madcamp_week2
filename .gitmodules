@@ -1,0 +1,3 @@
+[submodule "madcamp_week2_front"]
+	path = madcamp_week2_front
+	url = git@github.com:shyukahn/madcamp_week2_front.git
