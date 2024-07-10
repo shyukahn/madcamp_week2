@@ -33,6 +33,8 @@ AI는 물론 영어 공부를 하는 사람들과 소통하며 학습할 수 있
 
 ### 1. 로그인 화면
 
+![로그인 화면](images/login_page.png | width=100)
+
 **주요기능**
 
 - 카카오톡을 이용한 간편한 소셜 로그인
@@ -45,7 +47,7 @@ AI는 물론 영어 공부를 하는 사람들과 소통하며 학습할 수 있
 
 ### 2. 메인 커뮤니티 탭
 
-**메인 커뮤니티 화면**
+![메인 커뮤니티 화면](images/tab1_community_page.png)    ![글 작성](images/tab1_add_post.gif)    ![댓글 작성](images/tab1_add_comment.gif)    ![게시물 삭제](images/tab1_delete_post.gif)
 
 **주요 기능**
 
@@ -74,6 +76,8 @@ AI는 물론 영어 공부를 하는 사람들과 소통하며 학습할 수 있
 
 ### 3. AI 질문 페이지
 
+![Gemini 질문](images/tab2_gemini_responses.png)    ![Gemini 답변](images/tab2_get_gemini_response.gif)    ![Gemini 답변 공유](images/tab2_share_gemini_response.gif)
+
 - AI에게 사진으로 질문:
     
      `FloatingActionButton` 을 눌러 갤러리의 사진 또는 촬영을 통한 영어 문제 질문 → Gemini의 답변 생성
@@ -88,6 +92,8 @@ AI는 물론 영어 공부를 하는 사람들과 소통하며 학습할 수 있
     
 
 ### 4. 마이페이지
+
+![마이페이지](images/tab3_mypage.png)    ![스크랩](images/tab3_scrap.gif)
 
 - 회원정보
 - 스크랩한 게시글 버튼 터치 → 스크랩한 게시글들의 리스트 → 터치하면 그 게시물의 상세페이지로 이동
